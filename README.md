@@ -4,8 +4,6 @@ Made by <a href="https://github.com/Thenlie">Leithen Crider</a>, Benjamin Holt, 
 
 ## Description
 
----
-
 Welcome to Type++! Looking to test out your overpriced custom keyboard? Wanna show off how much faster you can type than your buddies? Need to find out your words-per-minute speed for a job application? You’ve come to the right place!
 
 Type++ is a competitive type-racing application that allows you to test your typing speed and compete both globally and with friends. As you play more and improve your speed and accuracy, you'll level up and earn badges to show off your skills.
@@ -60,8 +58,6 @@ THEN my account and associated information is deleted
 
 ## Built With:
 
----
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -85,8 +81,6 @@ THEN my account and associated information is deleted
 
 ## Screenshots
 
----
-
 ### Typing Test
 
 ![Typing test screenshot](/readme-screenshot-game.png)
@@ -96,8 +90,6 @@ THEN my account and associated information is deleted
 ![User dashboard screenshot](/readme-screenshot-dashboard.png)
 
 ## License
-
----
 
 <details>
 
@@ -122,12 +114,8 @@ THEN my account and associated information is deleted
 
 ## Contributing:
 
----
-
 Fork a copy of the repo and have fun! Feel free to add pull requests for any rad features you develop.
 
 ## Questions
-
----
 
 Feel free to contact any of us via our respective GitHub pages!
