@@ -79,7 +79,9 @@ THEN my account and associated information is deleted
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## Screenshots
+## Deployed Application and Screenshots
+
+https://typeplusplus.herokuapp.com/
 
 ### Typing Test
 
